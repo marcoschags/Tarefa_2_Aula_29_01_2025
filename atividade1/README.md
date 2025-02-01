@@ -1,3 +1,10 @@
+Insturuções de uso do programa
+
+_________________________________________________________________________________________________________
+_________________________________________________________________________________________________________
+_________________________________________________________________________________________________________
+
+
 
 # Atividade 1: Temporizador periódico.
 Com o emprego da função add_repeating_timer_ms(), presente na ferramenta Pico SDK, projete um semáforo com
@@ -16,3 +23,4 @@ os seguintes componentes
 a critério do discente.
 5) Com o emprego da Ferramenta Educacional BitDogLab, faça um experimento com o código deste exercício utilizando o LED RGB – GPIOs 11, 12 e 13.
  
+Projeto no Wokwi.com: https://wokwi.com/projects/421688735794925569

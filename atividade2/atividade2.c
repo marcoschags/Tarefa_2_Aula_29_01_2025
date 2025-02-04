@@ -3,9 +3,9 @@
 #include "hardware/gpio.h"
 #include "hardware/timer.h"
 
-#define LED_BLUE 11
-#define LED_RED 12
-#define LED_GREEN 13
+#define LED_GREEN 11
+#define LED_BLUE 12
+#define LED_RED 13
 #define BUTTON 5
 
 volatile bool led_sequence_active = false;

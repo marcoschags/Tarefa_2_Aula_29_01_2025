@@ -28,7 +28,7 @@ Este programa foi desenvolvido para controlar um semáforo utilizando LEDs no Ra
 - O loop principal exibe o tempo decorrido a cada segundo no terminal, mas não interfere na mudança de estados dos LEDs.
 
 ## Como Usar:
-- Abra o VSCode e abra o arquivo com o nome atividade1.
+- Abra o VSCode e abra o diretório atividade1 e o arquivo atividade1.c.
 - Conecte a placa BitDogLab ao computador.
 - Coloque a placa BitDogLab em modo "bootsel" (segure o botão BOOTSEL enquanto conecta a placa ao computador).
 - Compile o código utilizando o ambiente de desenvolvimento do Raspberry Pi Pico (Pico SDK).

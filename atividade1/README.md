@@ -39,4 +39,4 @@ Este programa foi desenvolvido para controlar um semáforo utilizando LEDs no Ra
 - Temporizador: A função add_repeating_timer_ms chama a função semaforo_callback a cada 3000 ms (3 segundos), atualizando o estado do semáforo.
 - Estados do Semáforo: A variável estado_semaforo controla a transição entre os estados de LED (vermelho, amarelo e verde), reiniciando após o estado verde.
 
-Projeto no Wokwi.com: https://wokwi.com/projects/421688735794925569
+* Projeto no Wokwi.com: https://wokwi.com/projects/421688735794925569
